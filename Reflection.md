@@ -1,4 +1,4 @@
-I've only completed two co-op terms at the same company, Siemens, and both of them so far have been enjoyable and great learning experiences.
+I've completed two co-op terms at the same company, Siemens, and both of them so far have been enjoyable and great learning experiences.
 Compared to school, it's quite different and having that familiarity and experience before graduating will be exceptionally useful for me.
 At the beginning of my first co-op, I honestly wasn't quite sure what to expect from it.
 I was a little nervous, mostly though because I didn't know what the work may be like, or how much work I may get, but, it ended up being an enjoyable experience.
