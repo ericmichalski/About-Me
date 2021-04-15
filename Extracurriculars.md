@@ -9,4 +9,6 @@ I continue to strive to perform better by practicing consistently and enjoy ever
 
 I have also been on the UC Esports team for Rainbow 6: Siege since January of 2020 and have enjoyed every part of it so far.
 I am able to meet several more people from across the country, and I have developed a lot of various connections as well through it.
-I have not been a part of a leadership position yet, however I do contribute a lot to the team and support each member.
+I frequently contribute a lot to the team and support each member.
+For example, during my second and third semesters playing on the team,
+I developed several defence strategies for various maps, researched opponents and constructed two counterstrategies, only one of which we played though it worked perfectly.
