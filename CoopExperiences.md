@@ -1,22 +1,27 @@
 ### 5th Co-op at Siemens in Milford, OH, May - August 2022:  
 1) Work
     - Prototyped XR Training Application
-        - Implemented a hand-tracking Oculus app that implemented a curved UI to load 3D models that the user could interact with (i.e. translate, rotate, scale...) using their hands or with custom voice commands to detach/attach parts and interact with each individually.
+        - Implemented a hand-tracking Oculus app that incorporated a curved UI to load 3D models that the user could interact with (i.e. translate, rotate, scale...) using their hands or with custom voice commands to detach/attach parts and interact with each individually.
 2) This was by far my favorite and most interesting co-op experience. I enjoyed every part of it and loved having the opportunity to be able to work on something within VR. I further developed my Unity and C# skills, and I gained skills in working with VR development which I believe will help me with my future career plans.
 
 ### 4th Co-op at Siemens in Milford, OH, January - May 2022:  
 1) Work
-    - 
-        - 
-2) 
-3) 
+    - Generating natural language from structured code using code2seq
+        - AI trains on SPARQL code that generates a model to make natural language predictions.
+    - Created Matrix/Yjs real-time, image collaboration document
+        - Using Matrix servers, a Yjs document, and custom 2D Markup code, a real-time, image editing, binary collaboration document was built.
+        - This would be used as a basis for a future project involving real-time, collaborative editing on 3D models
+        - However, due to file size restrictions from the servers, the project was unable to continue.
+    - Implementation of some UI for an expert recommender
+        - Developed a login page, user profile and three browsing options for the expert recommender.
+        - The recommender provided a list of experts on specific topics that a user could search
+2) This term I switched teams from a middle tier team to a group that focused on new, innovative things. I was able to learn quite a lot. I developed an understanding of synchronous, real-time collaboration documents through Matrix and Yjs and developed knowledge within Docker. I learned more about AI and its benefits within many things, specifically natural language. I also improved my Javascript, web development, HTML, and React skills.
 
 ### 3rd Co-op at Siemens in Milford, OH, May - August 2021:  
 1) Work
     - 
         - 
 2) 
-3) 
 
 ### 2nd Co-op at Siemens, in Milford, OH, August - December 2020:  
 1) Work
