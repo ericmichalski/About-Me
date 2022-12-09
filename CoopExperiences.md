@@ -19,9 +19,9 @@
 
 ### 3rd Co-op at Siemens in Milford, OH, May - August 2021:  
 1) Work
-    - 
-        - 
-2) 
+    - Server Manager Status Chart and Tables
+        - Implemented a visual representation of a server manager status information in dynamic, real-time fashion with adjustable time frames. Included two tables, one for showing specific information about events that occur within a server manager and one for showing the top active TC (Teamcenter) servers. This will be used a lot in the future since it's a visual graph of server info over time which will help with maintaining servers and the manager itself.
+2) I was able to learn new skills in Google Web Toolkit (GWT) along with log4j logging. I improved upon my Java skills, my understanding of the TC Management Console, and developing clean and concise code. I enjoyed this term since I was able to truly see the final product in action through the graph and know that it would be used a lot in the future.
 
 ### 2nd Co-op at Siemens, in Milford, OH, August - December 2020:  
 1) Work
